@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBuCWiftLontv8wIqXmo0kC4YbBDS8jJIjd+VhHEQeC1k0a23rUD8iVWI+hzvq/Qw2kMD35HzMZsscCKDBqqQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user-pc\\Documents\\Professionals\\Applications\\Delight\\Downloads\\Nml.Refactor.Me\\Nml.Refactor.Me.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user-pc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
